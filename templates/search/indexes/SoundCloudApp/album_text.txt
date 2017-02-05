@@ -1,0 +1,5 @@
+{{ object.artist }}
+{{ object.album_title }}
+{{ object.genre }}
+{{ object.album_logo }}
+{{ object.is_favorite }}

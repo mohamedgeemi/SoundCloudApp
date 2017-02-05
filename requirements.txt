@@ -1,0 +1,4 @@
+django==1.8
+elasticsearch==1.5.0
+django-haystack==2.5.1
+django-braces==1.11.0

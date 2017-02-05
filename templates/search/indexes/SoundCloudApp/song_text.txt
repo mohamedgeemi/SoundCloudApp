@@ -1,0 +1,4 @@
+{{ object.song_title }}
+{{ object.file_type }}
+{{ object.is_favorite }}
+
